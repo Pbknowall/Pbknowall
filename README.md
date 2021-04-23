@@ -1,4 +1,7 @@
-<img src="https://github.com/Pbknowall/Pbknowall/blob/main/NewLogo.png">
+
+<p align='center'>
+    <img src="https://github.com/Pbknowall/Pbknowall/blob/main/Assets/Logo.png">
+</p>
 <br>
 <h1 align="left">🇮🇪 Pbknowall</h1>
 <h3 align="left">💎 Programmer & Graphics Designer :gem:</h3>
@@ -68,8 +71,5 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/Pbknowall/Pbknowall/main/Assets/mongodb.svg" alt="" width="40"
             height="40" />
-    </a>
-    <a href="" target="_blank">
-        <img src="" alt="" width="40" height="40" />
     </a>
 </p>
