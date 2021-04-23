@@ -1,12 +1,10 @@
 
-<p align='center'>
-    <img src="https://github.com/Pbknowall/Pbknowall/blob/main/Assets/Logo.png">
-</p>
+<img height="200" src="https://github.com/Pbknowall/Pbknowall/blob/main/Assets/Logo.png">
 <br>
-<h1 align="left">🇮🇪 Pbknowall</h1>
+<h1 align="left">⚡ Pbknowall</h1>
 <h3 align="left">💎 Programmer & Graphics Designer :gem:</h3>
 <ul>
-    <li>👨🏻 My name's Peter (Call me Pb, not Pbk :)).</li>
+    <li>👨🏻 My name's Peter ( Call me Pb, not Pbk :) ).</li>
     <li>📅 Born 31st of May 2005.</li>
     <li>I am a Javascript Developer with 3 years of experience</li>
 </ul>
