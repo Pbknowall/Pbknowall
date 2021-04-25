@@ -1,11 +1,9 @@
-
-<img height="200" src="https://github.com/Pbknowall/Pbknowall/blob/main/Assets/Logo.png">
 <h1 align="left">⚡ Pbknowall</h1>
-<h3 align="left">💎 Programmer & Graphics Designer :gem:</h3>
+<h3 align="left">💎 Developer & Graphics Designer :gem:</h3>
 <ul>
     <li>👨🏻 My name's Peter ( Call me Pb, not Pbk :) ).</li>
     <li>📅 Born 31st of May 2005.</li>
-    <li>I am a Javascript Developer with 3 years of experience</li>
+    <li>I am a Node.js Developer since 2018</li>
 </ul>
 
 ![](https://discord.c99.nl/widget/theme-3/283312969931292672.png)
@@ -18,7 +16,7 @@
     </a>
     <a href="https://instagram.com/pbknow_all" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/Pbknowall/Pbknowall/main/Assets/instagram.svg"
-            alt="Pbknowall on Twitter" height="30" width="40" />
+            alt="Pbknowall on Instagram" height="30" width="40" />
     </a>
 </p>
 
