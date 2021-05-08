@@ -46,7 +46,7 @@
             alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/Pbknowall/Pbknowall/main/Assets/express.svg"
             alt="express" width="40" height="40" />
     </a>
 </p>
