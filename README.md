@@ -1,8 +1,8 @@
 <h1 align="left">⚡ Pbknowall</h1>
 <h3 align="left">💎 Developer & Graphics Designer :gem:</h3>
 <ul>
-    <li>👨🏻 My name's Peter ( Call me Pb, not Pbk :) ).</li>
-    <li>📅 Born 31st of May 2005.</li>
+    <li>👨🏻 My name's Peter ( Call me Pb :3 ).</li>
+    <li>📅 Born 31st of May.</li>
     <li>I am a Node.js Developer since 2018</li>
 </ul>
 
